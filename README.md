@@ -1,0 +1,1 @@
+The goal of the game is to challenge the arithmetic abilities of the player by showing in each level an operation (addition, substraction, multiplication or division). If the user answers correctly, the next level is shown, but if the user answers incorrectly, the game is over and a scary image (with a horrifying sound) is displayed on the screen. 
